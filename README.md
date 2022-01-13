@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Surtains</h1>
-<h3 align="center">If you came here from discord to boost your ego, you're weird. If not, welcome to my GitHub.</h3>
+<h3 align="center">If you came here from Discord to boost your ego, you're weird. If not, welcome to my GitHub.</h3>
 
-- 🌱 I’m currently learning **PHP, HTML, CSS**
+- I’m currently learning **Web Development ( PHP, HTML, CSS, JavaScript )**
 
-- 📫 How to reach me **canada@riseup.net**
+- You can reach me via email at **canada@riseup.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
